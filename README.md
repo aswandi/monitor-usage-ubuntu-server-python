@@ -3,7 +3,6 @@
 Dashboard monitoring server real-time berbasis **Python + Flask + psutil**.
 Menampilkan CPU usage, CPU clock per core, Memory, Disk, Network, dan Swap secara live.
 
-**Demo:** [kenalipaslon.online/mon2](https://kenalipaslon.online/mon2)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-3.x-green)
@@ -31,7 +30,7 @@ Menampilkan CPU usage, CPU clock per core, Memory, Disk, Network, dan Swap secar
 
 ```
 ┌─────────────────────────────────────────┐
-│  Server Monitor  kenalipaslon.online/mon2 │
+│        Server Monitor Dashboard           │
 │  [ONLINE] [Python 3.x] [● LIVE]          │
 ├──────────┬──────────┬──────────┬────────┤
 │ CPU 12%  │ MEM 50%  │ DISK 60% │ Uptime │
